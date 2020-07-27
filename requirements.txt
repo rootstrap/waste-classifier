@@ -4,4 +4,5 @@ numpy==1.17.4
 tensorflow>=2.0.1
 tensorflow-hub[make_image_classifier]
 Pillow
-
+matplotlib
+opencv-contrib-python
