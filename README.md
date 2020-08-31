@@ -31,7 +31,7 @@ The idea is to try some of the neural networks used in this paper in order to re
      virtualenv -p python3 venv
      source venv/bin/activate
      pip install -r requirements.txt
-     // unzip dataset-resized.zip
+     # unzip dataset-resized.zip
      python -c 'import split_data; split_data.split_data()'
   ```
 
