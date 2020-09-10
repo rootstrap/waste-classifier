@@ -6,3 +6,4 @@ tensorflow-hub[make_image_classifier]
 Pillow
 matplotlib
 opencv-contrib-python
+sklearn
